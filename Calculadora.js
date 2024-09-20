@@ -1,4 +1,4 @@
-let resultado = calcularRankeada(91, 10)
+let resultado = calcularRankeada(0, 0)
 
 console.log(resultado)
 
